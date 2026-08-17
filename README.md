@@ -214,7 +214,7 @@ A partir del proyecto base deberán transformar el sitio y adaptarlo a una empre
 Cambiar el nombre:
 
 ```text
-NovaWeb
+Empresaa
 ```
 
 por el nombre de la empresa, organización o proyecto elegido.
